@@ -1,7 +1,7 @@
 package users
 
 import (
-	"github.com/Momper14/weblib/api"
+	"github.com/jtelgen/weblib/api"
 )
 
 // NachEMail view nach-user
