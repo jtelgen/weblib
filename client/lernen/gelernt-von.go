@@ -1,7 +1,7 @@
 package lernen
 
 import (
-	"github.com/Momper14/weblib/api"
+	"github.com/jtelgen/weblib/api"
 )
 
 // GelerntVon view gelernt-von
