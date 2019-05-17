@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/Momper14/weblib/client/karteikaesten"
-	"github.com/Momper14/weblib/client/kategorien"
-	"github.com/Momper14/weblib/client/lernen"
+	"github.com/jtelgen/weblib/client/karteikaesten"
+	"github.com/jtelgen/weblib/client/kategorien"
+	"github.com/jtelgen/weblib/client/lernen"
 	userspkg "github.com/Momper14/weblib/client/users"
 )
 
