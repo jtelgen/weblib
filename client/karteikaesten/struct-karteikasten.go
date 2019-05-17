@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Momper14/weblib/client"
-	"github.com/Momper14/weblib/client/lernen"
+	"github.com/jtelgen/weblib/client"
+	"github.com/jtelgen/weblib/client/lernen"
 )
 
 // Karteikasten struct of a Karteikasten
