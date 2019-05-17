@@ -1,8 +1,8 @@
 package kategorien
 
 import (
-	"github.com/Momper14/weblib/api"
-	"github.com/Momper14/weblib/client"
+	"github.com/jtelgen/weblib/api"
+	"github.com/jtelgen/weblib/client"
 )
 
 // Kategorien database Kategorien
