@@ -8,7 +8,7 @@ import (
 	"github.com/jtelgen/weblib/client/karteikaesten"
 	"github.com/jtelgen/weblib/client/kategorien"
 	"github.com/jtelgen/weblib/client/lernen"
-	userspkg "github.com/Momper14/weblib/client/users"
+	userspkg "github.com/jtelgen/weblib/client/users"
 )
 
 func main() {
