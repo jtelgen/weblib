@@ -1,7 +1,7 @@
 package lernen
 
 import (
-	"github.com/Momper14/weblib/api"
+	"github.com/jtelgen/weblib/api"
 )
 
 // FachNachKarte view fach-nach-karte
