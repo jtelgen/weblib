@@ -1,7 +1,7 @@
 package karteikaesten
 
 import (
-	"github.com/Momper14/weblib/api"
+	"github.com/jtelgen/weblib/api"
 )
 
 // KartenNachAutor view nach-autor
