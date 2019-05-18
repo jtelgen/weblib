@@ -34,7 +34,7 @@ func (v View) DocsByKey(key interface{}, data interface{}) error {
 }
 
 // RowCount returns number of Rows in View
-func (v View) RowCount() (int, error) {
+func (v View) RowCount() (int, error) { 
 	return rowCount(v.url())
 }
 
