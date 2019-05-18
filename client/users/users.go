@@ -6,7 +6,6 @@ import (
 	"github.com/jtelgen/weblib/api"
 	"github.com/jtelgen/weblib/client"
 )
-
 // Users database Users
 type Users struct {
 	db    api.DB
@@ -110,4 +109,4 @@ func New() Users {
 		View: d.View("util", "nach-email")}
 
 	return db
-}
+} 
