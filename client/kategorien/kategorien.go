@@ -57,4 +57,4 @@ func New() Kategorien {
 	db.db = d
 
 	return db
-}
+} 
